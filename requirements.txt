@@ -1,0 +1,2 @@
+selenium==4.24.0
+pandas==2.2.2
