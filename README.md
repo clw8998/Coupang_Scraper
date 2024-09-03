@@ -68,7 +68,7 @@ Open `scraper.ipynb` and locate the **Parameter Setting** section. Here, you can
 During the scraping process, ensure that the following product information is collected:
 
 1. **Product Name**
-2. **Price**
+2. **Product Price**
 3. **Product Link**
 
 ### Result Storage Format
@@ -76,7 +76,7 @@ During the scraping process, ensure that the following product information is co
 Save the collected data in a `.csv` file with the following columns:
 
 1. **product_name**: Product Name
-2. **product_price**: Price
+2. **product_price**: Product Price
 3. **product_url**: Product Link
 
 Ensure that the `.csv` file is encoded in **UTF-8-SIG**.

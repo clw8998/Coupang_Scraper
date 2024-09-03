@@ -68,7 +68,7 @@ pip install -r requirements.txt
 在爬蟲的過程中，請確保收集以下商品信息：
 
 1. **商品名稱**
-2. **價格**
+2. **商品價格**
 3. **商品連結**
 
 ### 結果儲存格式
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 將收集的數據保存為 `.csv` 文件，並包含以下欄位：
 
 1. **product_name**: 商品名稱
-2. **product_price**: 價格
+2. **product_price**: 商品價格
 3. **product_url**: 商品連結
 
 請確保 `.csv` 文件編碼為 **UTF-8-SIG**。
