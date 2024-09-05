@@ -2,6 +2,8 @@
 
 This project is a web scraping tool designed to extract product information from an e-commerce site based on specific search terms. The tool automates the process of data collection and organization for further analysis.
 
+**[中文版本](./README_ZH.md)**
+
 ## Table of Contents
 
 - [Environment Setup](#environment-setup)
